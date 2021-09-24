@@ -12,7 +12,7 @@ start_text = """
 வணக்கம்! [{}](tg://user?id={}),
 நான் *{}*.
 
-I'm a music bot by @TamilBots 🤖
+I'm a music bot by @wsh22 🤖
 
 நீங்கள் download செய்ய வேண்டிய பாடலின் பெயரை உள்ளிடவும்...
 எ.கா : ```/song Kanave Kanave```
@@ -37,7 +37,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="💫⚜️Add Me⚜️💫", url="http://t.me/SongPlayRoBot?startgroup=true"
+                        text="💫⚜️ My channel⚜️💫", url="http://t.me/wsh23"
                     )
                 ]
             ]
